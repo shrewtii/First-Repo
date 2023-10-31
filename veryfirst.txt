@@ -1,6 +1,8 @@
 This is going to be my very first Repo.
 And I am branching out on my first!
 
+Changes made in master 
+
 Branch 1
 Branch 1
 
