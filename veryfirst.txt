@@ -1,4 +1,9 @@
 This is going to be my very first Repo.
+And I am branching out on my first!
+
+Branch 1
+Branch 1
+
 Really excited to learn Git
 
 Adding my regards
